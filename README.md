@@ -2,8 +2,8 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ITPM subject project- 3rd year 1st sem
-+PHP
-+BOOSTRAP 
+-PHP
+BOOSTRAP 
 ANGULAR 
 JS 
 HTML 
@@ -23,14 +23,28 @@ Crete Folder inside Wamp -> WWW -> create new folder
 
 step 3 
 --------------------------------------------------------
+```sh
 rar file extrat new folder
-+++++++++++++++++++++++++++++++++
-step 4 : admin.rar extract same folder
+```
+step 4 
+--------------------------------------------------------
+```sh
+admin.rar extract same folder
+```
+step 5 
+--------------------------------------------------------
+```sh
+edit config file -> Edit your $hostname , $username, $password
+```
+step 6 
+--------------------------------------------------------
+```sh
+import itpmdb to phpmyadmin
+```
 
-step 5 : edit config file -> Edit your $hostname , $username, $password
-
-step 6 : import itpmdb to phpmyadmin
-
-step 7 : Open web browser and Run the Project.
-
+step 7 
+--------------------------------------------------------
+```sh
+Open web browser and Run the Project.
+```
 
