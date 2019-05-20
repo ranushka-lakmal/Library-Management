@@ -10,7 +10,7 @@ HTML
 CSS 
 MYSQL 
 
-
+```sh
 Step 1 : Download Rar File
 -----------------------------------------------------------------------------
 Step 2 : Crete Folder inside Wamp -> WWW -> create new folder
@@ -26,3 +26,4 @@ step 6 : import itpmdb to phpmyadmin
 step 7 : Open web browser and Run the Project.
 -----------------------------------------------------------------------------
  
+```
