@@ -1,8 +1,10 @@
 # Library-Management
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 ![](https://img.shields.io/bower/v/editor.md.svg)
-ITPM subject project- 3rd year 1st sem
--PHP
+
+##ITPM subject project- 3rd year 1st sem
+
+PHP
 BOOSTRAP 
 ANGULAR 
 JS 
