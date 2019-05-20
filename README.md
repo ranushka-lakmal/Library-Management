@@ -13,6 +13,10 @@ MYSQL
 Step 1
 ----------------------------------------------------------
 
+####Inline code
+
+`$ npm install marked`
+
 `$ Download Rar File'
 
 Step 2 
