@@ -4,13 +4,13 @@
 
 >ITPM subject project- 3rd year 1st sem
 
-**PHP**,
+**PHP**
 **BOOSTRAP** 
-*ANGULAR* 
-JS 
-HTML 
-CSS 
-MYSQL 
+**ANGULAR**
+**JS** 
+**HTML** 
+**CSS** 
+**MYSQL** 
 
 Step 1
 ----------------------------------------------------------
