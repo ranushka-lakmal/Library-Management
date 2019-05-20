@@ -4,9 +4,9 @@
 
 >ITPM subject project- 3rd year 1st sem
 
-PHP
-BOOSTRAP 
-ANGULAR 
+**PHP**,
+**BOOSTRAP** 
+*ANGULAR* 
 JS 
 HTML 
 CSS 
